@@ -1,0 +1,50 @@
+.card {
+    margin: 100px;
+    width: 319px !important;
+    height: 438px;
+}
+
+.figure {
+    display: inline-block;
+    margin-top: 380px;
+    margin-left: 100px;
+}
+
+.Tools {
+    display: flex;
+    height: 572px;
+    background: #cdd5d5;
+    margin: 50px
+}
+
+.primary {
+    position: absolute;
+    top: 122px;
+    left: 915px;
+}
+
+p* {
+    color: black;
+}
+
+.card-img-top {
+    width: 317px !important;
+    height: 249px !important;
+}
+
+.card .btn {
+    position: absolute;
+    left: auto;
+}
+
+.figure-img {
+    margin-bottom: .5rem !important;
+    line-height: 1 !important;
+    position: absolute !important;
+    left: 703px !important;
+    top: 725px !important;
+    width: -10px !important;
+    width: 140px !important;
+    border-radius: 165px !important;
+    height: 178px !important;
+}

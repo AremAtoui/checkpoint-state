@@ -1,0 +1,28 @@
+.Img {
+    width: 200px !important;
+}
+
+.Too {
+    background: antiquewhite;
+    width: 973px;
+    height: 333px;
+    margin: 100px;
+    padding: 34px;
+    display: flex;
+    border-radius: 44px;
+    display: flex;
+}
+
+.pho {
+    padding: 15px;
+}
+.shopping
+    {
+        background: bisque;
+        width: 232px;
+        margin: 100px;
+        padding: 20px;
+        position: absolute;
+        top: 1145px !important;
+        left: 672px !important;
+    }

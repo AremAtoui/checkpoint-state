@@ -1,0 +1,31 @@
+.container {
+    max-width: 533px;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    background: #e3d1d1;
+    flex-wrap: wrap;
+}
+.title{
+  max-width: 100px;  
+}
+.Em{
+    max-width: 50px;  
+}
+h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-size: 13px;
+    line-height: 1.2;
+}
+.container {
+    max-width: 1320px;
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    background: #e3d1d1;
+    /* flex-wrap: wrap; */
+}
+.gens{
+    border-radius: 12px;
+}
