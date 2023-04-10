@@ -14,9 +14,9 @@ function Prefession() {
     const [show, setshow] = useState(false)
     return (
         <div>
-            <button >show students</button>
+            <button onClick={() => setshow(!show)}>show students</button>
             <div className="container">
-                {
+                {show?
                     students.map((el) => (
                         <div className="gens">
                             <img style={{
@@ -28,7 +28,7 @@ function Prefession() {
                             <h6 className="Em">{el.email}</h6>
 
                         </div>
-                    ))
+                    )):null
                 }
 
             </div>
